@@ -1,29 +1,29 @@
 /* Registration dialog */
-"Registration" = "Registration";
+"Registration" = "Регистрация";
 
 /* Registration dialog */
-"Please enter your license details from the email we have sent you:" = "Please enter your license details from the email we have sent you:";
+"Please enter your license details from the email we have sent you:" = "Пожалуйста, введите Ваше имя и лицензиионный код из письма, которое мы вам отправили:";
 
 /* Registration dialog */
-"Register" = "Register";
+"Register" = "Зарегистрироваться";
 
 /* Registration dialog */
-"Buy TotalSpaces Now" = "Buy TotalSpaces Now";
+"Buy TotalSpaces Now" = "Купить TotalSpaces Сейчас";
 
 /* Registration dialog */
-"Invalid license code" = "Invalid license code";
+"Invalid license code" = "Лицензионный код недействителен";
 
 /* Registration dialog */
-"Please go back and try again." = "Please go back and try again.";
+"Please go back and try again." = "Пожалуйста, вернитесь назад и повторите попытку";
 
 /* Registration dialog */
-"To purchase a license for TotalSpaces, please visit BinaryAge web store." = "To purchase a license for TotalSpaces, please visit the BinaryAge web store.";
+"To purchase a license for TotalSpaces, please visit BinaryAge web store." = "Для оплаты лицензии TotalSpaces, пожалуйста, посетите страницу магазина BinaryAge";
 
 /* Registration dialog */
-"Back" = "Back";
+"Back" = "Назад";
 
 /* Registration dialog */
-"Thanks for registering!" = "Thanks for registering!";
+"Thanks for registering!" = "Спасибо за регистрацию!";
 
 /* Registration dialog */
 "This TotalSpaces copy is licensed to:" = "This TotalSpaces copy is licensed to:";
